@@ -1,3 +1,5 @@
+**Forked on Datacom account in order to tag it to a fixed point - Brad Murray**
+
 = Active Directory
 
 Ruby Integration with Microsoft's Active Directory system based on original code by Justin Mecham and James Hunt at http://rubyforge.org/projects/activedirectory
