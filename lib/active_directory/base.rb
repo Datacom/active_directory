@@ -352,6 +352,10 @@ module ActiveDirectory
 			@entry.nil?
 		end
 
+    def entry
+      @entry
+    end
+
 		#
 		# Refreshes the attributes for the entry with updated data from the
 		# domain controller.
