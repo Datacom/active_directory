@@ -1,3 +1,3 @@
 module ActiveDirectory
-  VERSION = "1.5.5.datacom"
+  VERSION = "1.5.6.datacom"
 end
